@@ -20,6 +20,10 @@ body {
   background-position: center;
 }
 
+.bg-portafolio{
+  background-color: #222538;
+}
+
 /* Contacto */
 
 #Contacto form label {
