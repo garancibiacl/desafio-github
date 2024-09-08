@@ -1,5 +1,9 @@
 body {
   font-family: "Raleway", sans-serif;
+
+  background-color: #222538;
+  color: #f34852;
+
 }
 
 /* Hero Section */
@@ -13,6 +17,8 @@ body {
 
 /* Mis trabajos */
 
+
+
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
@@ -20,8 +26,8 @@ body {
   background-position: center;
 }
 
-.bg-portafolio{
-  background-color: #222538;
+.text-primary{
+  color: #f34852;
 }
 
 /* Contacto */
