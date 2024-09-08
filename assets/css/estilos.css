@@ -6,6 +6,10 @@ body {
 
 }
 
+.bg-nav{
+  background-color: #202335;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -26,10 +30,18 @@ body {
   background-position: center;
 }
 
-.text-primary{
+.red-color{
   color: #f34852;
 }
 
+
+.separator {
+  border: none; /* Elimina el borde predeterminado */
+  height: 4px; /* Grosor de la línea */
+  background-color: white; /* Color de la línea */
+  margin: 20px 0; /* Espaciado superior e inferior */
+  width: 10%;
+}
 /* Contacto */
 
 #Contacto form label {
